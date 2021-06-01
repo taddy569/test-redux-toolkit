@@ -7,3 +7,19 @@
 
 1. Absolute imports
 2. Advanced Configuration
+
+**Feature**
+
+1. Can saving config of user for the next revisit site:
+
+- Dark / Light Mode
+- Favorite post (news, show, ask, jobs, ...)
+  -> use 'redux persist' and 'local storage' to save this configuration
+
+2. Pagination post, user can setup how many posts per page, this config should be saved like the (1) feature
+
+- about pagination: should be infinite scroll list || from fist to last button? Pagination: 20 items per page
+
+3. Use lazy import
+
+4. Loading Modal for all app, but need to distinct what thing is loaded
