@@ -30,4 +30,7 @@
 - Round 2: redux toolkit with no typescript
 - Round 3: adding typescript
 
-How many times will be used for round 1, finish when ???
+**Questions**
+
+- How many times will be used for round 1, finish when ???
+- New project or change this, should use webpack + babel + manual typescript, react, instead of "create-react-app" template
