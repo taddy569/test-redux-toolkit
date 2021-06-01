@@ -23,3 +23,11 @@
 3. Use lazy import
 
 4. Loading Modal for all app, but need to distinct what thing is loaded
+
+**STEPS**
+
+- Round 1: basic UI with some mock data
+- Round 2: redux toolkit with no typescript
+- Round 3: adding typescript
+
+How many times will be used for round 1, finish when ???
